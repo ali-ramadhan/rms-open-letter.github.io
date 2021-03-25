@@ -190,6 +190,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alice Berg
 1. Alicia Boya Garcia (Igalia)
 1. Ali Polatel (Exherbo Linux)
+1. Ali Ramadhan
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Aljosha Papsch (FSFE member)
 1. Allan Day (Chair, GNOME Foundation Board of Directors)
@@ -892,7 +893,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Gabriella Coleman (McGill University)
 1. Gabriel Volpe (Practical FP in Scala)
 1. Gaeel Bradshaw-Rodriguez
-1. Galen Guyer (Rochester Institute of Technology Student, Computer Science House Sysadmin, Society of Software Engineers, `galenguyer` on GitHub)
 1. Gale Pedowitz Fagan
 1. Galia Mancheva (Former FSFE staff, former Julia Reda and Amelia Andresdotter policy assistant at the European Parliament (The Pirate Party))
 1. Gareth J. Greenaway (Salt Developer, SCALE Co-Founder and former chair person)
